@@ -1,7 +1,6 @@
 # CANDIDATE_README
 
-Technical scaffolding for the PII redaction take-home. See `README.md` for the
-assignment itself.
+Technical scaffolding for the PII redaction take-home.
 
 ## Files
 
