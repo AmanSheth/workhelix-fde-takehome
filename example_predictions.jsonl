@@ -1,0 +1,2 @@
+{"id": "pub-001", "predicted_spans": [[87, 97, "PERSON_NAME"], [146, 168, "EMAIL"], [194, 207, "PHONE_NUMBER"], [269, 273, "PERSON_NAME"]]}
+{"id": "pub-002", "predicted_spans": [[39, 55, "PERSON_NAME"], [71, 81, "DATE_OF_BIRTH"], [106, 117, "SSN"], [135, 145, "STREET_ADDRESS"], [187, 214, "EMAIL"]]}
