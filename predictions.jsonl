@@ -1,0 +1,10 @@
+{"id": "pub-001", "predicted_spans": [[87, 97, "PERSON_NAME"], [146, 169, "EMAIL"], [193, 207, "PHONE_NUMBER"], [269, 277, "PERSON_NAME"]]}
+{"id": "pub-002", "predicted_spans": [[35, 55, "PERSON_NAME"], [71, 81, "DATE_OF_BIRTH"], [106, 117, "SSN"], [135, 170, "STREET_ADDRESS"], [187, 213, "EMAIL"]]}
+{"id": "pub-003", "predicted_spans": [[44, 62, "PERSON_NAME"], [87, 92, "PERSON_NAME"], [217, 236, "EMAIL"], [251, 261, "PERSON_NAME"], [285, 297, "PHONE_NUMBER"]]}
+{"id": "pub-004", "predicted_spans": [[56, 71, "PERSON_NAME"], [77, 87, "DATE_OF_BIRTH"], [101, 112, "SSN"], [120, 135, "PHONE_NUMBER"], [145, 189, "STREET_ADDRESS"]]}
+{"id": "pub-005", "predicted_spans": [[28, 38, "PERSON_NAME"], [124, 147, "EMAIL"], [218, 230, "PHONE_NUMBER"]]}
+{"id": "pub-006", "predicted_spans": [[30, 39, "PERSON_NAME"], [46, 59, "DATE_OF_BIRTH"], [75, 96, "EMAIL"], [111, 141, "EMAIL"], [149, 163, "PHONE_NUMBER"], [178, 228, "STREET_ADDRESS"]]}
+{"id": "pub-007", "predicted_spans": [[23, 34, "PERSON_NAME"], [91, 111, "EMAIL"]]}
+{"id": "pub-008", "predicted_spans": [[46, 61, "PERSON_NAME"], [63, 116, "STREET_ADDRESS"], [147, 169, "EMAIL"], [217, 222, "PERSON_NAME"], [226, 238, "PHONE_NUMBER"]]}
+{"id": "pub-009", "predicted_spans": [[36, 58, "PERSON_NAME"], [64, 74, "DATE_OF_BIRTH"], [111, 123, "PHONE_NUMBER"], [131, 163, "EMAIL"]]}
+{"id": "pub-010", "predicted_spans": [[57, 77, "PERSON_NAME"], [93, 101, "DATE_OF_BIRTH"], [107, 118, "SSN"], [136, 174, "STREET_ADDRESS"], [228, 242, "PHONE_NUMBER"], [250, 276, "EMAIL"], [292, 304, "PERSON_NAME"], [310, 320, "DATE_OF_BIRTH"], [326, 337, "SSN"], [345, 372, "EMAIL"], [380, 394, "PHONE_NUMBER"]]}

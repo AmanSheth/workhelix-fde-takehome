@@ -28,8 +28,8 @@ Thumbs.db
 .env.local
 *.pem
 
-# Local prediction outputs (not the example committed to the repo)
-predictions.jsonl
+# Local prediction outputs (predictions.jsonl IS committed -- it's a
+# required deliverable, see CANDIDATE_README.md)
 my_predictions.jsonl
 *_predictions.jsonl
 !example_predictions.jsonl

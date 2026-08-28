@@ -1,0 +1,24 @@
+======================================================================
+PII REDACTION EVALUATION REPORT
+======================================================================
+Mode: IoU >= 0.5 (label must match)
+
+Per-category metrics:
+Category                TP    FP    FN   Recall     Prec       F1
+----------------------------------------------------------------------
+DATE_OF_BIRTH            6     0     0    1.000    1.000    1.000
+EMAIL                   11     0     0    1.000    1.000    1.000
+PERSON_NAME             14     1     0    1.000    0.933    0.966
+PHONE_NUMBER             9     0     0    1.000    1.000    1.000
+SSN                      4     0     0    1.000    1.000    1.000
+STREET_ADDRESS           5     0     0    1.000    1.000    1.000
+
+Overall (macro-averaged across categories):
+  Recall:    1.000
+  Precision: 0.989
+  F1:        0.994
+
+Totals: 49 TP, 1 FP, 0 FN
+  Ground truth spans: 49
+  Predicted spans:    50
+
